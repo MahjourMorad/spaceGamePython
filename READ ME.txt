@@ -1,0 +1,44 @@
+Space Shooter [v1.1.5]
+
+This is a SHoot-theM-UP type game based on absolutely nothing.
+
+Purpose is to get the higher score.
+
+The rules are the following:
+
+	you have 3 lives. getting hit by an asteroid will remove one.
+
+	you earn points by surviving :
+		1x (no bonus) when you have 3 lives left.
+		2x (1x bonus) when you have 2 lives left.
+		3x (2x bonus) when you have 1 live left.
+
+	you also earn points by destroying asteroids and hitting the boss:
+		100 pts for each asteroid hit.
+		250 pts for each hit on boss
+
+	/!\ Warning /!\ SCORE IS NOT SAVED, you have 10 sec after you died to write it down.
+
+Controls are the following :
+
+	[up], [left], [down], [right]
+	to move around
+
+	[space] 
+	to shoot.
+
+
+This game requires :
+	python 3.2.X for win32
+	pygame 1.9.2 for pygame 3.2 win32
+
+This game uses sound tracks that are not mine :
+	artist :
+		To Eris 
+		( http://freemusicarchive.org/music/To_Eris/ )
+		( https://www.reverbnation.com/toeris )
+	album :
+		Escape
+	tracks :
+		Regards from Mars (04:53)
+		Meeting in a black hole (04:54)
